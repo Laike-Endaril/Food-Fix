@@ -1,0 +1,11 @@
+[
+{
+  "modid": "foodfix",
+  "name": "Food Fix",
+  "description": "Fixes the vanilla bug where you will sometimes eat an extra item after a delay even though you've let go of right click",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["Laike_Endaril"],
+  "credits": ""
+}
+]
